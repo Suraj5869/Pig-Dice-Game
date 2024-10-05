@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\refint\PigDiceGame.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\ref\PigDiceGame.dll
