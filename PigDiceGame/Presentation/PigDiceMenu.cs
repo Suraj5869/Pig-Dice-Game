@@ -11,10 +11,11 @@ namespace PigDiceGame.Presentation
     internal class PigDiceMenu
     {
         static PigDiceManager manager = new PigDiceManager();
-        static int totalScore = 0;
+        static int totalScore = 0; 
         const int maxScore = 20;
         static bool turnActive = true;
         static int turnScore = 0;
+        static int currentTurn = 1;
 
         public static void MainInterface()
         {
@@ -45,6 +46,7 @@ namespace PigDiceGame.Presentation
             turnActive = true;
             while (turnActive)
             {
+                Console.WriteLine($"---- Current Turn: {currentTurn} ----");
                 Console.WriteLine("Choose the step\n" +
                         "1. Roll up - r\n" +
                         "2. Hold - h\n");
@@ -65,6 +67,9 @@ namespace PigDiceGame.Presentation
                 case "h":
                     Hold();
                     break;
+                default:
+                    Console.WriteLine("Choose the correct choice\n");
+                    break;
             }
         }
 
@@ -73,12 +78,17 @@ namespace PigDiceGame.Presentation
             int currentScore = manager.DiceRoll();
             Console.WriteLine($"You rolled {currentScore}");
 
+            //Use the condition if the number get from dice is 1
+            //If the number is 1 then turn will end and new turn start
             if (currentScore == 1)
             {
                 Console.WriteLine("Oops! You rolled a 1. Turn ends, and you lose your turn score.\n");
                 turnActive = false;
                 turnScore = 0;
+                currentTurn++;
             }
+            //If the number is other than 1 i.e. (between 2 to 6) then current score is added to turnscore
+            //Checks if the turnscore is greater than maxscore i.e. (20)
             else
             {
                 turnScore += currentScore;
@@ -89,6 +99,7 @@ namespace PigDiceGame.Presentation
 
         static void IsMaxScore(int turnScore)
         {
+            //If turn score is greater than 20 then it store in totalscore and turn will end
             if (turnScore >= 20)
             {
                 totalScore = turnScore;
@@ -98,12 +109,14 @@ namespace PigDiceGame.Presentation
         }
         public static void Hold()
         {
+            //when you choose hold the turn will ends and totalscore and turnscore is reset 
             Console.WriteLine("You Hold the Score");
             totalScore += turnScore;
             Console.WriteLine($"Your Total Score is {totalScore}\n");
             turnActive = false;
             turnScore = 0;
             totalScore = 0;
+            currentTurn++;
         }
 
         public static void PlayAgain(int choice)
@@ -113,6 +126,7 @@ namespace PigDiceGame.Presentation
                 case 1:
                     totalScore = 0;
                     turnScore = 0;
+                    currentTurn = 1;
                     CheckMaxScore();
                     break;
                 case 2:

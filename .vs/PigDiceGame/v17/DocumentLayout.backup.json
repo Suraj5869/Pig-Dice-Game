@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "PigDiceGame\\Controllers\\PigDiceManager.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\PigDiceGame\\PigDiceGame\\Controllers\\PigDiceManager.cs",
               "RelativeToolTip": "PigDiceGame\\Controllers\\PigDiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T10:44:11.186Z",
               "EditorCaption": ""
@@ -43,9 +43,9 @@
               "Title": "PigDiceMenu.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\PigDiceGame\\PigDiceGame\\Presentation\\PigDiceMenu.cs",
               "RelativeDocumentMoniker": "PigDiceGame\\Presentation\\PigDiceMenu.cs",
-              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\PigDiceGame\\PigDiceGame\\Presentation\\PigDiceMenu.cs*",
-              "RelativeToolTip": "PigDiceGame\\Presentation\\PigDiceMenu.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswHoAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\PigDiceGame\\PigDiceGame\\Presentation\\PigDiceMenu.cs",
+              "RelativeToolTip": "PigDiceGame\\Presentation\\PigDiceMenu.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwEYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T10:41:55.88Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "PigDiceGame\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:41:06.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T10:41:06.345Z"
             }
           ]
         }

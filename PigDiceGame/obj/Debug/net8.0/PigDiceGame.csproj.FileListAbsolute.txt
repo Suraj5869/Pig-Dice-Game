@@ -12,3 +12,4 @@ C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Deb
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.pdb
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.genruntimeconfig.cache
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\ref\PigDiceGame.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.sourcelink.json
